@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="assets/banner.png" width="100%" alt="Banner"/>
@@ -11,7 +10,7 @@
 
 <p>
 <a href="https://www.linkedin.com/in/dhrupad-paitandy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="[https://drive.google.com/file/d/12jxuEZgrWEHduasnKcAOq0knMq1Jf53S/view?usp=sharing](https://drive.google.com/file/d/16vQzuWcTxc3v1UjrW5SCIei9-bCV-4MG/view?usp=sharing)"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/16vQzuWcTxc3v1UjrW5SCIei9-bCV-4MG/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 <a href="https://leetcode.com/u/God_dp/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://www.kaggle.com/dhrupadpaitandy"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="mailto:dhrupadpaitandy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
