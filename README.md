@@ -75,8 +75,9 @@
 # ⭐ Featured Projects
 
 - 🤖 **AI Resume Scanner** — https://ai-candidate-ranker-hackathon.streamlit.app/
-- 📊 **Customer Segmentation** — https://github.com/Dhrupad-05/Projects/blob/main/Customer_Segementation.ipynb
-- 🎬 **Movie Review Sentiment Analysis** — https://github.com/Dhrupad-05/Projects/blob/main/Sentiment_Analysis_of_Movie_Reviews_using_SVM%2C_Logistic_Regression%2C_and_Naive_Bayes.ipynb
+- 🌬️ **VayuRaksha** — https://github.com/Dhrupad-05/VayuRaksha
+- 🛡️ **Aapda Drishti** — https://github.com/Dhrupad-05/SIH-2026
+- 🏢 **EnterpriseOS AI** — https://github.com/Dhrupad-05/EnterpriseOS-AI-
 
 ---
 
